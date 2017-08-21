@@ -7,7 +7,7 @@ vector<pair<pair<int,string>,int> >v;
 int B[10],A[10],TBr[10],C[10],TAT[10],W[10];
 int main()
 {
-    cout << "First Come First-Served Scheduling"<<"\n";
+    cout << "Shortest Job First Scheduling"<<"\n";
     cout <<">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>"<<"\n";
     cout <<"Number of process \n";
     int n,ww = 0;
